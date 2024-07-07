@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Paskprocpp
-- 👀 I’m interested in C/C++, Informatics and computer science
-- 🌱 I’m currently learning C++
 
 
 <!---
